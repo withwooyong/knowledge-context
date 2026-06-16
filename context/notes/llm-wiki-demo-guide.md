@@ -1,8 +1,8 @@
 ---
 title: LLM Wiki(Knowledge Context) 데모 실습 가이드 요약
-status: draft
+status: review
 owner: ted
-scope: members
+scope: context
 source: sources/LLM-Wiki-데모-실습-가이드.md
 tags: [llm-wiki, rag, obsidian, knowledge-management, governance]
 created: 2026-06-16
