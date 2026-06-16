@@ -1,6 +1,6 @@
 ---
 title: LLM Wiki(Knowledge Context) 데모 실습 가이드 요약
-status: review
+status: approved
 owner: ted
 scope: context
 source: sources/LLM-Wiki-데모-실습-가이드.md
